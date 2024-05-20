@@ -1,0 +1,3 @@
+Anaconda3
+cv2 - conda install opencv
+tensorflow - install with pip
